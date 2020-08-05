@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import ShowcaseCard from './ShowcaseCard'
 import { faGem, faQuestionCircle } from '@fortawesome/free-solid-svg-icons'
-import Button from '../Button/Button'
+import Button from '../../../components/Button/Button'
 import { Link } from 'react-router-dom/cjs/react-router-dom.min'
 
 const Wrapper = styled.section`

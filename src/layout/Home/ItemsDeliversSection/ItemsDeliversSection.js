@@ -1,10 +1,10 @@
 import React from 'react'
 import styled from 'styled-components';
 
-import Item1 from '../../utils/imgs/weaponsSm/item1.png'
-import Item2 from '../../utils/imgs/weaponsSm/item2.png'
-import Item3 from '../../utils/imgs/weaponsSm/item3.png'
-import Item4 from '../../utils/imgs/weaponsSm/item4.png'
+import Item1 from '../../../utils/imgs/weaponsSm/item1.png'
+import Item2 from '../../../utils/imgs/weaponsSm/item2.png'
+import Item4 from '../../../utils/imgs/weaponsSm/item4.png'
+import Item3 from '../../../utils/imgs/weaponsSm/item3.png'
 
 const weaponsArr = [
   Item1,

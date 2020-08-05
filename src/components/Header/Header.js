@@ -13,6 +13,7 @@ const Wrapper = styled.div`
   margin-top: 40px;
   width: ${({ theme }) => theme.headerWidth};;
   height: 64px;
+  z-index: 100;
 `
 
 const MotionInnerWrapper = styled(motion.header)`
